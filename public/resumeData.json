@@ -4,7 +4,7 @@
     "occupation": "Systems Engineer at Motorola Solutions",
     "description": "My career interests include Virtual/Augmented Reality, Computer Vision, and Mobile Android/iOS Development",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "My name is Vincent, a Mathematics - Computer Science Grad from UCSD and currently working at Motorola Solutions as a Systems Engineer - System Design and Implementation. I am constantly looking to challenge myself and learn new technologies every day - I hope to transition to software where I can develop and create meaningfully.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "vincentchau72@gmail.com",
     "phone": "858-205-7031",
@@ -31,30 +31,17 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "UC San Diego",
+        "degree": "Bachelors of Science in Mathematics - Computer Science",
+        "graduated": "June 2020"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Motorola Solutions",
+        "title": "Systems Engineer",
+        "years": "November 2020 - Present",
+        "description": "Deployed radio telecommunication systems for various Californian public safety institutions including City of Hemet Police Department, City of Redding, and San Jose Fire Department"
       }
     ],
     "skills": [
@@ -91,34 +78,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "Virtual Reality Cell Visualizer",
+        "category": "Interact with 3D-modeled cell in Virtual Reality space",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://github.com/vhchau20/BioEdVR-Vincent"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
+        "title": "Map-Based Journal",
+        "category": "Make a journal entry based on a pinpointed geographical location",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://github.com/vhchau20/MapJournal"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "title": "Twitch.tv Drawing Extension",
+        "category": "Draw pictures and display them on a twitch stream's chatroom",
         "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "github.com/xianhaic/chat-sketch"
       }
     ]
   },
